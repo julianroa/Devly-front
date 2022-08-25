@@ -1,0 +1,50 @@
+.image {
+    width: 18%;
+    height: auto;
+    clip-path: circle();
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    object-fit: contain;
+    }
+   
+.details {
+    text-align: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #fafafa;
+    font-size: 25px;
+    
+}
+
+.bioabout{
+    
+    justify-content: space-between;
+    padding: 50px;
+    
+    
+}
+.name {
+    
+    
+    border-bottom: 1px solid #fafafa; ;
+    border-top: 1px solid #fafafa;
+    padding: 15px;
+}
+
+
+
+.bio {
+    color : gray;
+    text-align: left;
+    margin-left: 20vh;
+    padding: 20px;
+}
+
+.about {
+   
+    margin-left: 20vh;
+    font-style: bolder;
+    text-decoration: underline;
+    text-align: left;
+    
+}

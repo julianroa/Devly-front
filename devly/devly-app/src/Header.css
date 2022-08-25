@@ -1,0 +1,22 @@
+.header {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #fbfbfb;
+
+}
+
+.header__logo {
+    height: 101px;
+    object-fit: contain;
+
+}
+
+.header__icon {
+    padding: 20px;
+}
+
+
+.header__backButton {
+    margin-left: 6.5vh;
+}

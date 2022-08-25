@@ -1,0 +1,29 @@
+.chatPreview {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    height: 70px;
+    border-bottom: 1px solid #fafafa;
+}
+
+.chatPreview__info {
+    flex: 1;
+}
+
+.chatPreview__info > p {
+    color: grey;
+}
+
+.chatPreview__timestamp {
+    color: lightgray;
+}
+
+.chatPreview__avatar {
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}

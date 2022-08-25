@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "@material-ui/icons": "^4.11.3",
+    "react-router-dom": "^6.3.0",
+    "react-tinder-card": "^1.4.5"
+  }
+}

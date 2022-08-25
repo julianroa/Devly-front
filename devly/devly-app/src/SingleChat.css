@@ -1,0 +1,56 @@
+.singleChat__message {
+    display:flex;
+    align-items: center;
+   
+    margin-bottom: 60px;
+    
+}
+
+.singleChat__text {
+    margin-left: 10px;
+    background-color: lightgrey;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.singleChat__timestamp {
+    text-align: center;
+    padding: 20px;
+    color: grey;
+
+}
+
+.singleChat__text__self {
+    background-color: #29b3cd;
+    margin-left: auto;
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+}
+
+.singleChat__input {
+    display: flex;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid lightgray;
+}
+
+.singleChat__input__input {
+    padding: 10px;
+    flex: 1;
+    border: none;
+    
+}
+
+.singleChat__input__send {
+    border: none;
+    background-color: #fff;
+    margin-right: 20px;
+    color: #fe3d71;
+    font-weight: bold;
+
+
+}
